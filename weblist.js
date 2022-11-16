@@ -43,7 +43,7 @@ function uselessWebButton(button, popup) {
 		"http://notdayoftheweek.com/",
 		"https://greatbignothing.com/",
 		"https://zoomquilt.org/",
-		"https://www.bouncingdvdlogo.com/",
+		"https://www.bouncingdvdlogo.com/"
 
 	]
 
